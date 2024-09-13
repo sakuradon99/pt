@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/sakuradon99/pt/cmd"
 	"os"
-	"pt/cmd"
 
 	"github.com/spf13/cobra"
 )

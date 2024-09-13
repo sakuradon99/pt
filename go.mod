@@ -1,4 +1,4 @@
-module pt
+module github.com/sakuradon99/pt
 
 go 1.21
 
